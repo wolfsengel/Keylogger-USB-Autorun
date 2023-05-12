@@ -1,0 +1,4 @@
+[autorun]
+open = launch.bat
+UseAutoPlay = 1
+ACTION = Escaneando con VirusScan
